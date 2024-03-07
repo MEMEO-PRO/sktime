@@ -136,5 +136,3 @@ def run_test_for_class(cls):
 
     # run the test if and only if at least one of the conditions 2-4 are met
     return cond2 or cond3 or cond4
-
-
